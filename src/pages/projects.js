@@ -41,7 +41,6 @@ const Projects = () => {
     
     <h1> The Scouts Association. </h1>
     <strong><p>UX Designer, Web App Development (2022 - present)</p></strong>
-    <a href="https://digitalskills.scouts.org.uk/" target="_blank" rel="noreferrer">digitalskills.scouts/</a>
     <p>The Scouts Association wanted to improve the digital skills of their volunteers. Through many iterations. I designed and tested a tool that has recently been launched, I now manage the SLA maintenance.</p>
     <p>The Digital Skills tool is a place to access learning content and evolved with design thinking to include a personalisation assessment gauging what level the learner is with their skills. 
      <p>Through further workshopping, we incorporated the role of "Digital Champion", users who can support learners by answering questions through a forum or directly mentoring.</p>
