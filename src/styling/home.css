@@ -75,3 +75,46 @@ position: fixed;
     /* padding: .3rem;   */
     font-size: 1rem;
   }
+
+
+  @media only screen and (max-width: 600px) {
+
+    .content-wrapper { 
+
+      flex-direction: column;
+    }
+    .experience-container {
+      margin: 1rem;;
+    }
+    .exp-title {
+font-size: 2rem;  
+    }
+    .values-container {
+     margin: 1rem;
+  
+    }
+.value {
+  font-size: 2rem;
+}
+    .topleft {
+   visibility: hidden;
+    }
+    .topright {
+    visibility: hidden;
+    }
+    .homepage {
+      justify-content: center;
+    }
+    .name {
+      font-size: 4rem;
+    }
+    .role {
+      font-size: 1.5rem;
+     margin-bottom: 2rem;
+    }
+    .process-container {
+display: flex;
+justify-content: center;
+flex-direction: column;
+    }
+  }

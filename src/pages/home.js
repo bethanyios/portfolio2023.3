@@ -18,7 +18,7 @@ const Home = () => {
       <img src={patchi} className="topright" alt="background"/>
     
         <h1 className="name"> Bethany Scott</h1>
-        <p className="role"> UX Researcher and Designer</p>
+        <p className="role"> UX Researcher & Designer</p>
     
         <div className="content-wrapper">
           <div className="values-container">
