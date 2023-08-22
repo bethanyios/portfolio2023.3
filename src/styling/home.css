@@ -17,7 +17,6 @@
 
 
 
-
 /* BACKGROUND GRAPHIC */
 .topleft {
   left: -2rem;
@@ -80,30 +79,31 @@ position: fixed;
   @media only screen and (max-width: 600px) {
 
     .content-wrapper { 
-
       flex-direction: column;
     }
     .experience-container {
       margin: 1rem;;
     }
     .exp-title {
-font-size: 2rem;  
+      font-size: 2rem;  
     }
     .values-container {
      margin: 1rem;
-  
     }
-.value {
-  font-size: 2rem;
-}
+    .value {
+    font-size: 2rem;
+    }
     .topleft {
    visibility: hidden;
     }
     .topright {
-    visibility: hidden;
+    top: 1.3rem;
+    right: -4rem;
+    height: 30%;
     }
     .homepage {
       justify-content: center;
+      margin-top: 8rem;
     }
     .name {
       font-size: 4rem;
@@ -113,8 +113,8 @@ font-size: 2rem;
      margin-bottom: 2rem;
     }
     .process-container {
-display: flex;
-justify-content: center;
-flex-direction: column;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     }
   }

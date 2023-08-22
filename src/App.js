@@ -5,9 +5,10 @@ import Projects from "./pages/projects.js"
 import Contact from "./pages/contact.js"
 import {Navigate} from "./components/navigation.js"
 
+
 function App() {
     const [page, setPage] = React.useState("home");
-
+   
   if (page === "home") {
     return (
         <>
@@ -28,7 +29,10 @@ function App() {
         <Navigate setPage={setPage}></Navigate>
         <Contact />
         </>
+    
     );
+
+    
 }
 }
 
