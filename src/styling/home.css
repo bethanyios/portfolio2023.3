@@ -1,0 +1,77 @@
+/* HOMEPAGE INTRO */
+.homepage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 1.5rem;
+}
+
+.name {
+  font-size: 6rem;
+}
+.role {
+  font-size: 1.5rem;
+  margin: -3rem;  
+}
+
+
+
+
+/* BACKGROUND GRAPHIC */
+.topleft {
+  left: -2rem;
+  top: -5rem;
+  position: fixed;
+}
+.topright {
+top: 5rem;
+right: -5rem;
+position: fixed;
+}
+.bottomleft {
+  bottom: -1.5rem;
+  left: -3rem;
+  position: fixed;
+}
+
+
+
+
+
+/* HOMEPAGE CONTENT */
+  .content-wrapper { 
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    flex-direction: row;
+  }
+
+  /* VALUES */
+  .values-container {
+    display: flex;
+    flex-direction: column;
+    margin: 8rem;
+  }
+  .value {
+    font-size: 2.5rem;
+    font-weight: 400;     
+    padding: 1.1rem;
+    margin: 0;
+  }
+
+  /* EXPERIENCE */
+  .experience-container {
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+    margin-right: 4rem;
+  }
+  .exp-title {
+    font-size: 2.5rem;
+    font-weight: 500; 
+  }
+  .experience  {
+    /* padding: .3rem;   */
+    font-size: 1rem;
+  }
