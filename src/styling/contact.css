@@ -1,12 +1,10 @@
 .contact-container {
     display: flex;
+    align-items: center;
     justify-content: center;
-    align-items: flex-start;
     flex-direction: column;
-    margin: 10rem 18rem;
-    position: fixed;
+    margin-top: 10rem;
 }
-
 .paragraph {
     width: 60vw;
     text-align: justify;
@@ -18,11 +16,6 @@
     font-size: 16px;
     margin-right: 2rem;
 }
-
-.details {
-    margin: 0
-}
-
 
 /* BACKGROUND */
 .bg5 {
@@ -38,10 +31,10 @@
 
 @media only screen and (max-width: 600px) {
 .contact-container {
-margin: 10rem 2.5rem;
+margin: 10rem;  
 }
 .paragraph {
-    width: 80vw;
+    width: 95vw;
 padding: 0;
 }
 }
