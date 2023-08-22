@@ -41,7 +41,7 @@ const Home = () => {
             <p className="experience">
             <a href="https://www.yallacooperative.com/" target="_blank" rel="noreferrer" className="exp-title">Yalla Cooperative<br/></a> UX Designer & Researcher, Sept 2021-present</p>
             <p className="experience">
-            <a href="https://sienna-website.vercel.app/" target="_blank" rel="noreferrer" className="exp-title">Sienna<br/></a> Co-founder: UX Lead & Developer, Mar 2020 - Aug 2021</p>
+            <a href="https://sienna-website.vercel.app/" target="_blank" rel="noreferrer" className="exp-title">Sienna<br/></a> Co-founder: UX Designer & Developer, Mar 2020 - Aug 2021</p>
             <p className="experience">
 
             <a href="https://www.foundersandcoders.com/" target="_blank" rel="noreferrer" className="exp-title">Founders & Coders <br/></a> Full-time Coding Bootcamp, Oct 2019 - Mar 2020 </p>
