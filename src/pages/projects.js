@@ -42,6 +42,7 @@ const Projects = () => {
       
     <h1>Social Mobility Foundation. </h1>
     <strong><p>UX Designer & Project Manager, Website & Application Form Development (2022-present)</p></strong>
+    <a href="https://app.socialmobility.org.uk/" target="_blank" rel="noreferrer">app.socialmobility.org.uk/</a>
     <p>The Social Mobility Foundation (SMF) enlisted the services of Yalla for the digital transformation of their organisation. </p>
     <p>I undertook the redesign of the student application form with the goal of boosting
       conversion rates and of the Employer Index Report webpage, catering to
