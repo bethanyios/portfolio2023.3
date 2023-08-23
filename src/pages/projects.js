@@ -24,7 +24,7 @@ const Projects = () => {
 </div>
     <div className="content-column">  
     <h1>Shannon Trust & The Ministry of Justice. </h1>
-    <strong><p>UX Designer & Researcher, App Development (2021 - present) & Website Developmnt (2022)</p></strong>
+    <strong><p>UX Designer & Researcher, App Development (2021 - present) & Website Development (2022)</p></strong>
     <a href="https://www.shannontrust.org.uk/" target="_blank" rel="noreferrer">shannontrust.org.uk/</a>
     <p>Shannon Trust has been leading a reading intervention program in prisons for over 20 years, 
       utilising physical books and peer learning.</p>
