@@ -24,7 +24,8 @@ const Projects = () => {
 </div>
     <div className="content-column">  
     <h1>Shannon Trust & The Ministry of Justice. </h1>
-    <strong><p>UX Designer & Researcher, App Development (2021 - present)</p></strong>
+    <strong><p>UX Designer & Researcher, App Development (2021 - present) & Website Developmnt (2022)</p></strong>
+    <a href="https://www.shannontrust.org.uk/" target="_blank" rel="noreferrer">shannontrust.org.uk/</a>
     <p>Shannon Trust has been leading a reading intervention program in prisons for over 20 years, 
       utilising physical books and peer learning.</p>
     <p>Over 50% of adult prisoners in the UK are illiterate, making it a critical social and equality issue. 
@@ -37,6 +38,7 @@ const Projects = () => {
     <p>Since the pilot launch with 300 prison leavers across the Kent, Surrey and Sussex probation region, 
       I have conducted research for a community rollout, including a longitudinal diary study and user interviews. 
       This effort aims to develop a whitelabel app that could be adopted by various organisations seeking to benefit from it.</p>
+      <p>Alongside this project, I designed and conducted research for the new Shannon Trust website</p>
       
     <h1>Social Mobility Foundation. </h1>
     <strong><p>UX Designer & Project Manager, Website & Application Form Development (2022-present)</p></strong>
@@ -79,7 +81,7 @@ const Projects = () => {
 
     <h1> Chiltern Music Therapy.</h1>
     <strong><p>UX Designer, Website Development (2022)</p></strong>
-    <a href="https://www.chilternmusictherapy.co.uk/" target="_blank" rel="noreferrer">chilternmusictherapy.com/</a>
+    <a href="https://www.chilternmusictherapy.co.uk/" target="_blank" rel="noreferrer">chilternmusictherapy.co.uk/</a>
     <p>We embarked on a website development project to revitalise the digital presence of Chiltern
       Music Therapy and enhance accessibility to their diverse therapy offerings.</p>
     <p> Collaborating closely with the client, I established website goals, KPIs, and formulated testable
@@ -105,7 +107,7 @@ const Projects = () => {
       experiences with the cost of living crisis. This initiative was essential for gaining deep insights
       into the challenges faced by workers. Through qualitative interviews with members from various
       unions, including the Royal Mail, I moderated research sessions to collect firsthand narratives.</p>
-    <p>Using Notion, I compiled documentation by synthesizing the findings, which I subsequently
+    <p>Using Notion, I compiled documentation by synthesising the findings, which I subsequently
       presented to several TUC stakeholders. I categorised the qualitative research to make the
       information easily interpretable, supplementing it with statistics to illustrate the range of opinions
       within the data. This documentation has been shared with the unions, with a focus on how the
@@ -198,7 +200,7 @@ const Projects = () => {
 
     <h1>Signpost.</h1>
     <strong><p>UX Lead (Jan 2020)</p></strong>
-    <p> A student project idea I proposed to develop an app that assists individuals at risk of homelessness in locating categorized services through a map interface.</p>
+    <p> A student project idea I proposed to develop an app that assists individuals at risk of homelessness in locating categorised services through a map interface.</p>
     <p> Made with ReactJs, Airtable & Figma.</p>
     </div>
 </div>

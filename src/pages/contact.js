@@ -11,9 +11,10 @@ const Contact = () => {
 <img src={patch6} className="bg6"alt="background"/>
 <div className="contact-container">
     <p className="paragraph">
-    A passionate UX Researcher & Designer dedicated to driving social impact through design and transforming insights into intuitive solutions.
-    I am driven to find the synergy between accessible, usable and beautiful designs to create a seamless experience that goes beyond functionality. 
-    <br /><br />
+    A passionate UX Researcher & Designer dedicated to driving social impact through design and
+    transforming insights into intuitive solutions. I am driven to find the synergy between
+    accessibility, usability, and aesthetics to craft a seamless experience that transcends
+    functionality.<br /><br />
     <p >London based</p>
     <p >bethanyioscott@gmail.com</p>
     
