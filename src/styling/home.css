@@ -37,8 +37,6 @@ position: fixed;
 
 
 
-
-
 /* HOMEPAGE CONTENT */
   .content-wrapper { 
     display: flex;
@@ -74,6 +72,9 @@ position: fixed;
   .experience  {
     /* padding: .3rem;   */
     font-size: 1rem;
+  }
+  .arrow {
+    padding-right: 1rem;
   }
 
 
