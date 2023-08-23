@@ -32,12 +32,19 @@ const Projects = () => {
       
     <h1>Social Mobility Foundation. </h1>
     <strong><p>UX Designer & Project Manager, Website & Application Form Development (2022-present)</p></strong>
-    <p>The Social Mobility Foundation (SMF) approached us to transform the digital presence of their organisation. </p>
-    <p>I recreated the student application form to raise conversion rates and the Employer Index Report webpage, catering to high-level corporations aiming to gauge their social mobility impact. I ran weekly co-design sessions with young users to gather continuous insights and workshops with stakeholders in which I was responsible for influencing decisions.
-     As the lead on research for all projects, I facilitiate the usability testing and compile synthesis documentation in Notion, which I then present to stakeholders with my recommendations.</p>
-    <p>At the launch of a campaign by SMF, through Google Analytics, they witnessed a record-breaking influx of applicants within 24 hours - a testament to the efficacy of the user-centred design approach I implemented which aimed to improve conversion rates.</p>
-    <p>As well as the UX designer, I was tasked with serving as the overall Project Manager, a welcome challenge for me and an opportunity to develop management skills. We are currently in the second phase of work with this client, working on a full website transformation.</p>
-    
+    <p>The Social Mobility Foundation (SMF) enlisted the services of Yalla for the digital transformation of their organisation. </p>
+    <p>I undertook the redesign of the student application form with the goal of boosting
+      conversion rates and of the Employer Index Report webpage, catering to
+      high-level corporations aiming to assess their social mobility impact. To ensure ongoing
+      feedback collection, I conducted weekly co-design sessions with young users and held design
+      thinking workshops involving stakeholders. As is my process across all projects with research, I
+      facilitated usability testing and compiled synthesis documentation using Notion, which I
+      subsequently presented to stakeholders along with my recommendations.</p>
+    <p>Upon launching the application form, tracked through Google Analytics, SMF observed a
+      record-breaking influx of applicants within 24 hours. This outcome of boosted conversion rates stands as a testament to the
+      effectiveness of the user-centered design approach I implemented.</p>
+      <p>As well as the UX designer, I was tasked with serving as the Project Manager, a welcome challenge for me and an opportunity to develop management skills. We are currently in the second phase of work with this client, working on a full website transformation.</p>
+          
     <h1> The Scouts Association. </h1>
     <strong><p>UX Designer, Web App Development (2022 - present)</p></strong>
     <p>The Scouts Association wanted to improve the digital skills of their volunteers. Through many iterations. I designed and tested a tool that has recently been launched, I now manage the SLA maintenance.</p>
