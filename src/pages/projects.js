@@ -25,13 +25,10 @@ const Projects = () => {
     <div className="content-column">  
     <h1>Shannon Trust & The Ministry of Justice. </h1>
     <strong><p>UX Designer & Researcher, App Development (2021 - present)</p></strong>
-    <p>Shannon Trust has run a reading intervention program in prisons for over 20 years, using actual books and peer learning. </p>
-    <p>Over 50% of adult prisoners in the UK are illiterate, making it a critical social and equality issue. Thanks to the Trust's efforts, 90% of its learners pursue further education. The Ministry of Justice's initiative to reduce reoffending rates provided us with funding to digitise the program into an app.</p> 
-    <p>I have converted the paper exercises into a digital format, using tailored design thinking workshops, and I've led research with various methods, including remote and in-prison usability testing. I spearheaded the audio production as a feature we prioritised for accessibility.
-After launching the pilot, I have led diary studies and user interviews for a community rollout and to build a whitelabel app for other organisations.</p>
-    {/* <p>My work involved converting reading exercises into digital formats through collaboration with stakeholders through a design thinking workshop I tailored bespoke for this process. Over the years, I've been the lead on research, implementing a range of methodologies including usability testing both remotely and within prisons. I'm lead on the audio production, a feature we incorporated to prioritise accessibility for non-readers.</p> 
-    <p>Since launching the pilot, I have facilitated a longitudinal diary study and user interviews for a community rollout (due to the success of the tool) to develop a whitelabel app for a range of organisations that would benefit.</p> */}
-    <p>"Turning Pages will be piloted with 300 prison leavers with self-assessed low literacy across the Kent, Surrey and Sussex probation region." - gov.uk</p>
+    <p>Shannon Trust has been leading a reading intervention program in prisons for over 20 years, utilising physical books and peer learning.</p>
+    <p>Over 50% of adult prisoners in the UK are illiterate, making it a critical social and equality issue. Thanks to the Trust's efforts, 90% of its learners pursue further education. The Ministry of Justice's initiative to reduce reoffending rates provided us with funding to digitise the program into an app.</p>
+    <p>My role involved converting reading exercises into digital formats through collaborative work with stakeholders, using a design thinking workshop tailored specifically for this process. As the Research Lead, I have implemented various methodologies, including remote and in-prison usability testing. I've also overseen audio production, a feature incorporated to enhance the accessibility for non-readers.</p>
+    <p>Since the pilot launch with 300 prison leavers across the Kent, Surrey and Sussex probation region, I have conducted research for a community rollout, including a longitudinal diary study and user interviews. This effort aims to develop a whitelabel app that could be adopted by various organisations seeking to benefit from it.</p>
       
     <h1>Social Mobility Foundation. </h1>
     <strong><p>UX Designer & Project Manager, Website & Application Form Development (2022-present)</p></strong>
