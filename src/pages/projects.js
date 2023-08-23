@@ -25,10 +25,18 @@ const Projects = () => {
     <div className="content-column">  
     <h1>Shannon Trust & The Ministry of Justice. </h1>
     <strong><p>UX Designer & Researcher, App Development (2021 - present)</p></strong>
-    <p>Shannon Trust has been leading a reading intervention program in prisons for over 20 years, utilising physical books and peer learning.</p>
-    <p>Over 50% of adult prisoners in the UK are illiterate, making it a critical social and equality issue. Thanks to the Trust's efforts, 90% of its learners pursue further education. The Ministry of Justice's initiative to reduce reoffending rates provided us with funding to digitise the program into an app.</p>
-    <p>My role involved converting reading exercises into digital formats through collaborative work with stakeholders, using a design thinking workshop tailored specifically for this process. As the Research Lead, I have implemented various methodologies, including remote and in-prison usability testing. I've also overseen audio production, a feature incorporated to enhance the accessibility for non-readers.</p>
-    <p>Since the pilot launch with 300 prison leavers across the Kent, Surrey and Sussex probation region, I have conducted research for a community rollout, including a longitudinal diary study and user interviews. This effort aims to develop a whitelabel app that could be adopted by various organisations seeking to benefit from it.</p>
+    <p>Shannon Trust has been leading a reading intervention program in prisons for over 20 years, 
+      utilising physical books and peer learning.</p>
+    <p>Over 50% of adult prisoners in the UK are illiterate, making it a critical social and equality issue. 
+      Thanks to the Trust's efforts, 90% of its learners pursue further education. 
+      The Ministry of Justice's initiative to reduce reoffending rates provided us with funding to digitise the program into an app.</p>
+    <p>My role involved converting reading exercises into digital formats through collaborative work with stakeholders, 
+      using a design thinking workshop tailored specifically for this process. As the Research Lead, 
+      I have implemented various methodologies, including remote and in-prison usability testing. I've also overseen audio production, 
+      a feature incorporated to enhance the accessibility for non-readers.</p>
+    <p>Since the pilot launch with 300 prison leavers across the Kent, Surrey and Sussex probation region, 
+      I have conducted research for a community rollout, including a longitudinal diary study and user interviews. 
+      This effort aims to develop a whitelabel app that could be adopted by various organisations seeking to benefit from it.</p>
       
     <h1>Social Mobility Foundation. </h1>
     <strong><p>UX Designer & Project Manager, Website & Application Form Development (2022-present)</p></strong>
@@ -43,31 +51,69 @@ const Projects = () => {
     <p>Upon launching the application form, tracked through Google Analytics, SMF observed a
       record-breaking influx of applicants within 24 hours. This outcome of boosted conversion rates stands as a testament to the
       effectiveness of the user-centered design approach I implemented.</p>
-      <p>As well as the UX designer, I was tasked with serving as the Project Manager, a welcome challenge for me and an opportunity to develop management skills. We are currently in the second phase of work with this client, working on a full website transformation.</p>
+      <p>As well as the UX designer, I was tasked with serving as the Project Manager, a welcome challenge for me and an 
+        opportunity to develop management skills. We are currently in the second phase of work with this client, working on the full website development.</p>
           
     <h1> The Scouts Association. </h1>
     <strong><p>UX Designer, Web App Development (2022 - present)</p></strong>
-    <p>The Scouts Association wanted to improve the digital skills of their volunteers. Through many iterations. I designed and tested a tool that has recently been launched, I now manage the SLA maintenance.</p>
-    <p>The Digital Skills tool is a place to access learning content and evolved with design thinking to include a personalisation assessment gauging what level the learner is with their skills. Through further workshopping, we incorporated the role of "Digital Champion", users who can support learners by answering questions through a forum or directly mentoring.</p>
-    <p> My role across projects includes stakeholder management which as well as presenting insights also involves advocating for users when assumptions are not validated in research. Throughout the process volunteers were involved in co-design workshop sessions and in my research. This level of involvement made sure the tool was highly user-centric and rooted in the needs of actual people.</p>
-    <p>The tool has been awarded runner up in the Digital Leaders 100 Awards for Digital Skills or Talent Initiative of the Year (Product or Service) category. You can read more about the tool <a className="inline" href="https://www.scouts.org.uk/news/2023/july/let-s-talk-about-digital-skills-and-why-they-re-so-important/ " rel="noreferrer" target="_blank">here.</a></p>
-    
+    <p> The Scouts Association recognised the need to enhance the digital skills of their volunteers.
+        Over multiple iterations, I designed and tested a tool that has recently been launched. I am now
+        responsible for managing SLA maintenance.</p>
+    <p> The Digital Skills tool serves as a platform to access learning content. It evolved through the
+          application of design thinking, incorporating a personalisation assessment to gauge the learners'
+          skill levels. Through further workshops, we introduced the role of 'Digital Champion' – users who
+          can offer support to learners by addressing questions through a forum or providing direct
+          mentoring.</p>
+    <p> Given the multifaceted nature of this tool, ensuring an intuitive user flow presented a challenge.
+          To address this, I conducted user interviews and usability testing, revisiting early iterations to
+          create a more streamlined design. I recommended simplifying the app's features as its
+          functionality expanded, thereby enhancing the user journey's intuitiveness.</p>
+    <p> My role across projects encompasses stakeholder management. This involves not only
+          presenting insights but also advocating for users when research fails to validate assumptions.
+          Throughout the process, volunteers participated in co-design workshop sessions and were
+          involved in my research. This high level of engagement ensured that the tool remained highly
+          user-centric and aligned with the genuine needs of people.</p>
+    <p> The tool has been recognised as a runner-up in the Digital Leaders 100 Awards for the Digital
+          Skills or Talent Initiative of the Year (Product or Service) category. More information about the
+          tool can be found here.</p>
+
     <h1> Chiltern Music Therapy.</h1>
     <strong><p>UX Designer, Website Development (2022)</p></strong>
     <a href="https://www.chilternmusictherapy.co.uk/" target="_blank" rel="noreferrer">chilternmusictherapy.com/</a>
-    <p>We redeveloped the website to transform the digital presence Chiltern Music Therapy and provide better access to their various therapy offerings.</p>
-    <p>With the client, I established website goals and KPIs and formulated testable hypotheses. Once that was defined, I orchestrated design thinking workshops conducting user personas and service journey mapping exercises which allowed me to build out user stories to form the site structure.  Additionally, I designed a user-friendly CMS using Webflow, empowering the client to seamlessly make updates and maintain the website.</p>
-    <p>My findings showed it was key to focus on streamlining the enquiry process: triaging users through relevant flows such as "who we work with" and "where we work", to enable an intuitive journey through the site for their needs. The user story ends with a referral form where users can select the type of referral they require, creating a new and efficient backend for Chiltern to manage enquiries.</p>
-    <p>“From responding to our brief, to in person workshops to bring the vision to life to finally a brand new shiny website, it was a hugely positive experience. The focus that Yalla have on the user when building a website really did set them apart. We are so happy with the website we now have and the ability we have to make changes ourselves and to request changes from the dev team makes everything so much easier to manage.” - Katie Shushter</p> 
-    
+    <p>We embarked on a website development project to revitalise the digital presence of Chiltern
+      Music Therapy and enhance accessibility to their diverse therapy offerings.</p>
+    <p> Collaborating closely with the client, I established website goals, KPIs, and formulated testable
+        hypotheses. Once these parameters were defined, I orchestrated design thinking workshops,
+        leading user persona and service journey mapping exercises. These activities allowed me to
+        craft user stories that formed the foundation of the site's structure. Additionally, I designed a
+        user-friendly CMS using Webflow, empowering the client to effortlessly implement updates and
+        manage the website</p>
+    <p> My research indicated the significance of streamlining the enquiry process: guiding users
+        through pertinent flows such as 'who we work with' and 'where we work'. This approach
+        facilitated an intuitive journey through the site tailored to their specific needs. The user journey
+        culminates in a referral form, where users can specify the type of referral they require,
+        establishing an efficient backend for Chiltern to handle enquiries.</p>
+    <p> “From responding to our brief, to in person workshops to bring the vision to life to finally a brand
+        new shiny website, it was a hugely positive experience. The focus that Yalla have on the user
+        when building a website really did set them apart. We are so happy with the website we now
+        have and the ability we have to make changes ourselves and to request changes from the dev
+        team makes everything so much easier to manage.” - Katie Shushter, Chiltern Music Therapy</p>
     
     <h1> Trades Union Congress. </h1>
     <strong><p>UX Researcher & Facilitator, User Research (2023)</p></strong>
-    <p>I conducted user research for the Trades Union Congress (TUC) regarding union member experiences with the cost of living crisis. It was a crucial endeavor to gain deep insights into the challenges faced by workers. 
-       By engaging in qualitative interviews with members from various unions including the Royal Mail, I moderated research to gather firsthand narratives.</p>
-    <p>Using Notion, I put together documentation using my synthesis of the findings to present to a number of TUC stakeholders. I categorised the qualititative research to make the information interpretable and provided stats to show the sway of opinion within the data. This has since been published to the unions with the focus of how TUC can better support members with their content.</p>
-    <p>The research will empower the TUC to advocate effectively for policy changes to address the needs and concerns of workers, ensuring that their voices are heard and their struggles acknowledged in the pursuit of creating a fair and sustainable economic landscape for all.</p> 
-  </div>
+    <p>I conducted user research for the Trades Union Congress (TUC) concerning union members'
+      experiences with the cost of living crisis. This initiative was essential for gaining deep insights
+      into the challenges faced by workers. Through qualitative interviews with members from various
+      unions, including the Royal Mail, I moderated research sessions to collect firsthand narratives.</p>
+    <p>Using Notion, I compiled documentation by synthesizing the findings, which I subsequently
+      presented to several TUC stakeholders. I categorised the qualitative research to make the
+      information easily interpretable, supplementing it with statistics to illustrate the range of opinions
+      within the data. This documentation has been shared with the unions, with a focus on how the
+      TUC can enhance its support for members through informative content.</p>
+    <p>The research will empower the TUC to effectively advocate for policy changes aimed at
+      addressing the needs and concerns of workers. By doing so, it ensures that their voices are
+      heard and their struggles acknowledged in the pursuit of establishing a fair and sustainable
+      economic landscape for all.</p></div>
 
 </div>
 
@@ -82,64 +128,57 @@ const Projects = () => {
     <p>
     A user research project with CAST/Catalyst for LGBT+ organisation, 
     Just Like Us, to define a resource database and e-learning platform. 
-    We built several prototypes and conducted usability and AB testing with a range of educators. Our findings were then compiled for handover to another digital agency.
+    We built several prototypes and conducted usability and AB testing with a range of educators. 
+    Our findings were then compiled for handover to another digital agency.
     </p>
     <p>Made with Figma, Miro, HackMD, Thinkific, LearnDash & Google docs.</p>
   
     <h1>Discovery Learning Programme.</h1>
     <strong><p>UX Designer (Sept - Oct 2020)</p></strong>
-    <p>
-    A discovery programme for CAST/Catalyst with 9 charity groups 
-    to train staff in digital service design. This programme 
-    involved guiding the groups through a design sprint to
-    come up with solutions that would solve their varied problem areas. 
-    With tailored support and coaching calls, we supported the participants 
-    in putting together funding applications for development.
-    </p>
-    <p>We were given the opportunity to design our own workshops to conduct with the various charities. This is something in which we have built our expertise and tailor each project with the most effective design sprint exercises for the user group</p>
-    <p>Made with Miro.</p>
+    <p> A discovery programme with CAST/Catalyst that involved collaborating with nine charity groups.
+        The objective was to provide staff training in digital service design. The programme
+        encompassed guiding these groups through a design sprint aimed at generating solutions for
+        their diverse problem areas. We offered tailored support and coaching calls, assisting
+        participants in assembling funding applications for subsequent development.</p>
+    <p> We were granted the opportunity to devise our own workshops to conduct with various charities.
+        This has allowed us to build our expertise and customise each project by selecting the most
+        effective design sprint exercises for the respective user groups.</p>
+    <p> Made with Miro.</p>
   
     <h1>CyberSafe Tool For Schools.</h1>
     <strong><p>UX Designer & Frontend Developer (Jun - Sept 2020)</p></strong>
-    <p>
-    A survey app for primary schools in Ireland for CyberSafeKids to measure cybersafety
-    on all levels: leadership, teacher and students. The tool aims to
-    encourage schools to educate on cybersafety for children and be able 
-    to display their certification for the public. We are contracted for continued maintenance. 
-    </p>
+    <p>A survey app for primary schools in Ireland on behalf of CyberSafeKids. This app is designed to
+      assess cybersafety across all levels: leadership, teachers, and students. The primary goal of the
+      tool is to prompt schools to prioritise cybersafety education for children and to allow them to
+      showcase their certification to the public. Additionally, we have been contracted to provide
+      ongoing maintenance for the app.</p>
     <p>Made with Gatsby, Firebase, Airtable, Figma & Netlify CMS.</p>
    
     <h1>Cyber Break.</h1>
     <strong><p>UX Designer & Frontend Developer (Oct 2020)</p></strong>
-    <p>
-      Another project with CyberSafeKids: a family quiz to determine cybersafety at home made for the 
-      promotion of digital detox day in Ireland. This was later developed further 
-      for future use.
-    </p>
+    <p>Another project with CyberSafeKids involved creating a family quiz designed to assess
+      cybersafety practices at home. The quiz was developed for the promotion of Digital Detox Day
+      in Ireland and was subsequently expanded for future use.</p>
     <p>Made with Figma, ReactJS & Airtable.</p>
 
     <h1>Collaborative Digital Training.</h1>
     <strong><p>UX Designer & Frontend Developer & UX Designer (May - June 2020) </p></strong>
-    <p>
-    A collaboratively designed MVP built for two charities: Social Action for Health & Pursuing Independent Paths, on a 
-    learning programme run by CAST/Catalyst.
-    Resource Centre was developed as a companion app to online video learning 
-    sessions where charities can post info and links to session 
-    resources that are accessible to participants. The programme 
-    also involved training the participants in Product Ownership 
-    in order to upskill people in digital service design.
-    </p>
-    <p>Made with Figma, ReactJS & Airtable.</p>
+    <p> A collaboratively designed MVP (Minimum Viable Product) for two charities, namely Social
+        Action for Health and Pursuing Independent Paths. This was accomplished within a learning
+        programme facilitated by CAST/Catalyst. The resulting product, Resource Centre, serves as a
+        companion app for online video learning sessions. Through this app, the charities can share
+        information and provide links to session resources, ensuring accessibility for all participants. The
+        program also included training participants in Product Ownership, aiming to enhance their skills
+        in digital service design.</p>
+    <p> Made with Figma, ReactJS & Airtable.</p>
 
     <h1>My Best Life.</h1>
     <strong><p>UX Designer (Mar - May 2020)</p></strong>
-    <p>
-    A definition programme with three collaborating youth charities: Leap, The Mix and UK Youth,  
-    as part of the second phase of an ongoing project run by 
-    National Philanthropy Capital. We defined and prototyped 3 apps: 
-    youth vote, youth coin and the recommender; usability testing each 
-    with a various groups of young people.
-    </p>
+    <p> A definition program in collaboration with three youth charities: Leap, The Mix, and UK Youth.
+        This initiative was part of the second phase of an ongoing project managed by National
+        Philanthropy Capital. Within this project, we undertook the task of defining and prototyping three
+        apps: Youth Vote, Youth Coin, and The Recommender. Each of these prototypes was subjected
+        to usability testing with various groups of young people.</p>
     <p>Made with Figma & Miro.</p>
     </div> 
 </div>
@@ -152,23 +191,15 @@ const Projects = () => {
     <div className="content-column">  
     <h1>SafeSpace.</h1>
     <strong><p>Scrum Lead (Feb 2020)</p></strong>
-    <p>
-      A site for the members of the Musician’s Union 
-      to report instances of sexual harassment/abuse 
-      at work in the music industry 
-    </p>
+    <p>A website for the members of the Musician’s Union to report instances of sexual harassment or abuse in the workplace.</p>
     <p> 
       Made with ReactJs, Netlify Lamdas, Airtable, Figma & Cypress.
       </p>
 
     <h1>Signpost.</h1>
     <strong><p>UX Lead (Jan 2020)</p></strong>
-    <p>
-      A student project idea I proposed to create an app for people at risk of homelessness to find categorised services using a map. 
-    </p>
-    <p>
-      Made with ReactJs, Airtable & Figma. 
-    </p>
+    <p> A student project idea I proposed to develop an app that assists individuals at risk of homelessness in locating categorized services through a map interface.</p>
+    <p> Made with ReactJs, Airtable & Figma.</p>
     </div>
 </div>
 
@@ -180,12 +211,15 @@ const Projects = () => {
     <div className="content-column">  
     <h1>Together for Mental Wellbeing.</h1>
     <strong><p>HR Administrator (Jan - Oct 2019)</p></strong>
-    <p>
-      Administrator for the HR team in a mental health charity rooted in service-user involvement. The head office takes care of around 600 employees from services all over the UK. This job involved interacting and supporting staff and managers regularly, as well as minute taking for disciplinaries. This gave me the opportunity to learn about the functionality of a charity from within.  
-    </p>
-    <p>
-       In addition, I contributed to the implementation of a new HR system which was incredibly insightful to be on the charity side of digital integrations. As a developer and UX designer, I have experience in their position which makes me conscious of their perspective.
-    </p>
+    <p>I served as an administrator for the HR team in a mental health charity that deeply values
+        service-user involvement. The head office oversees approximately 600 employees across
+        services throughout the UK. In this role, I engaged with and supported staff and managers
+        regularly, and I was responsible for taking minutes during disciplinary proceedings. This position
+        provided me with a unique opportunity to gain insight into the inner workings of a charity.</p>
+    <p> Furthermore, I played a role in the implementation of a new HR system. This experience offered
+        valuable insights into the challenges and processes associated with integrating digital solutions
+        within a charity. Drawing from my background as a developer and UX designer, I am particularly
+        attuned to their perspective, which has proven beneficial in this context.</p>
     </div>
 </div>
 
